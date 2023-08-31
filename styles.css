@@ -1,5 +1,15 @@
+.cabeçalho{
+    background-color: aqua;
+    margin: 0px;
+}
+.corpo{
+    background-color: darkcyan;
+    width: 1363px;
+    height: 1000px;
+    margin: 0px;
+}
 div{
-background-color: aqua;
+background-color: darkcyan;
 margin-top: 20px;
 border: 2px solid black;
 }
