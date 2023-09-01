@@ -1,15 +1,18 @@
 .cabeçalho{
-    background-color: aqua;
+    background-color: #689AC9;
     margin: 0px;
+    height: 100px;
 }
 .corpo{
-    background-color: darkcyan;
+    background-color: ;
     width: 1363px;
     height: 1000px;
     margin: 0px;
+    padding: 20px;
 }
-div{
-background-color: darkcyan;
-margin-top: 20px;
-border: 2px solid black;
+.menu
+{    
+    height: 70px;
+    background-color: #689AC9;
+
 }
